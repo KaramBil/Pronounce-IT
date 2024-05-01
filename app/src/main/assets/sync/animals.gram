@@ -1,0 +1,43 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<ani> =           sheep |
+         rabbit |
+         dog |
+         cat |
+         camel |
+         horse |
+         hamster |
+         fly |
+         bee |
+         butterfly |
+         spider |
+         moustique |
+         caelifera |
+         coccinellidae |
+         penguin |
+         octopus |
+         turtle |
+         shark |
+         sealion |
+         killerwhale |
+         mantaray |
+         falcon |
+         duck |
+         heron |
+         toucan |
+         eagle |
+         peacock |
+         macaw |
+         panda |
+         giraffe |
+         bear |
+         leopard |
+         lion |
+         wolf |
+         elephant |
+         colosseum |
+         parthenon   ;
+
+public <animals> = <ani>;

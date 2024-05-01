@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/invitation">
+
+    <TextView
+
+        android:layout_width="fill_parent"
+        android:text="Want Help ?"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:paddingTop="3dp"
+        android:textSize="30dp"
+        android:textStyle="bold|italic"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="By clicking HEAR button you will use 3 tokens to hear what you should say !"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:textSize="15dp"
+        android:paddingStart="20dp"
+        android:textStyle="bold|italic"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="By clicking SKIP you will use 5 tokens to skip this image !"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:textSize="15dp"
+        android:paddingStart="20dp"
+        android:textStyle="bold|italic"
+        />
+
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginBottom="10dp"
+    android:paddingStart="40dp"
+    android:paddingEnd="40dp"
+    android:layout_height="wrap_content">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="HEAR"
+        android:background="@drawable/bu_principale"
+        android:id="@+id/startspeak"
+        android:textColor="@color/white"
+        android:layout_gravity="end"
+
+        />
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+   <RelativeLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content">
+       <Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:padding="10dp"
+           android:text="SKIP"
+           android:background="@drawable/bu_principale"
+           android:id="@+id/skipimg"
+           android:textColor="@color/white"
+           android:layout_gravity="end"
+
+           />
+   </RelativeLayout>
+
+</LinearLayout>
+
+
+
+
+</LinearLayout>

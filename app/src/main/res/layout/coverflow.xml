@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main1bg">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="50dp"
+        android:id="@+id/lin"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/jetonnbrct"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:layout_marginEnd="2dp"
+            android:maxLines="1"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold|italic"
+
+            />
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="60dp"
+            android:id="@+id/jetonimgct"
+            android:background="@drawable/goldentoken"
+            />
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:id="@+id/CatSetting"
+            android:foreground="@drawable/settingcle"
+            android:background="@drawable/cerclenoir"
+            android:layout_marginEnd="20dp"
+            />
+
+
+
+    </LinearLayout>
+
+    <it.moondroid.coverflow.components.ui.containers.FeatureCoverFlow
+        android:id="@+id/coverFlow"
+        android:layout_width="match_parent"
+        android:layout_below="@id/lin"
+        android:layout_height="match_parent"
+        app:coverHeight="200dp"
+        app:coverWidth="150dp"
+        app:maxScaleFactor="1.5"
+        app:reflectionGap="0px"
+        app:rotationThreshold="0.50"
+        app:scalingThreshold="0.5"
+        app:spacing="0.6"
+        />
+
+
+    <TextSwitcher
+        android:id="@+id/title"
+        android:paddingBottom="16dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></TextSwitcher>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,41 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<tec> =      radio|
+         telephone|
+         television|
+         vacuum|
+         washingmachine|
+         microwave|
+         fridge|
+         operatingroom|
+         scanner|
+         radiography|
+         dentaltools|
+         wheelchair|
+         lazer|
+         laboratory|
+         network|
+         alarm|
+         camera|
+         videocall|
+         socialmedia|
+         gamerlaptop|
+         hawkeye|
+         laptop|
+         printer|
+         router|
+         windows|
+         linux|
+         hacker|
+         buyweb|
+         applications|
+         iphone|
+         galaxy|
+         lumia|
+         ios|
+         android|
+         windos ;
+
+public <technology> = <tec>;

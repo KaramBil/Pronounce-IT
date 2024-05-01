@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="WORDS">
+        <item>revolution</item>
+        <item>army</item>
+        <item>border</item>
+        <item>charledegaulle</item>
+        <item>zighoudyoucef</item>
+        <item>didouchemourad</item>
+        <item>larbibenmhidi</item>
+        <item>pharoh</item>
+        <item>pyramid</item>
+        <item>hieroglyph</item>
+        <item>cleopatra</item>
+        <item>sarcophagus</item>
+        <item>sphinx</item>
+        <item>mummy</item>
+        <item>war</item>
+        <item>tanque</item>
+        <item>hitler</item>
+        <item>grenade</item>
+        <item>prisoner</item>
+        <item>stalin</item>
+        <item>truman</item>
+        <item>prehistory</item>
+        <item>man</item>
+        <item>dinosaur</item>
+        <item>mammoth</item>
+        <item>fire</item>
+        <item>painting</item>
+        <item>cave</item>
+        <item>mecca</item>
+        <item>mosque</item>
+        <item>doaa</item>
+        <item>quran</item>
+        <item>islam</item>
+        <item>judaism</item>
+        <item>christianity</item>
+
+
+        <item>sun</item>
+        <item>space</item>
+        <item>rocket</item>
+        <item>astronaut</item>
+        <item>solarsystem</item>
+        <item>telescope</item>
+        <item>satellite</item>
+        <item>dna</item>
+        <item>bacteria</item>
+        <item>cell</item>
+        <item>anatomy</item>
+        <item>mushroom</item>
+        <item>chromosome</item>
+        <item>microscope</item>
+        <item>experiment</item>
+        <item>flask</item>
+        <item>chimist</item>
+        <item>laboratory</item>
+        <item>explotion</item>
+        <item>pasteur</item>
+        <item>dmitri</item>
+        <item>doctor</item>
+        <item>drugs</item>
+        <item>sick</item>
+        <item>hospital</item>
+        <item>stomach</item>
+        <item>toys</item>
+        <item>stethoscope</item>
+        <item>theory</item>
+        <item>lightbulb</item>
+        <item>hoking</item>
+        <item>newton</item>
+        <item>einstien</item>
+        <item>galile</item>
+        <item>archimede</item>
+
+
+
+
+
+        <item>glove</item>
+        <item>shoes</item>
+        <item>ring</item>
+        <item>boxing</item>
+        <item>punchingbag</item>
+        <item>mayweather</item>
+        <item>mcgregor</item>
+        <item>football</item>
+        <item>bars</item>
+        <item>ronaldo</item>
+        <item>messi</item>
+        <item>marta</item>
+        <item>mahrez</item>
+        <item>salah</item>
+        <item>handball</item>
+        <item>room</item>
+        <item>bars</item>
+        <item>slahdji</item>
+        <item>elahmer</item>
+        <item>hansen</item>
+        <item>karabatic</item>
+        <item>tennis</item>
+        <item>racket</item>
+        <item>nadal</item>
+        <item>federer</item>
+        <item>serena</item>
+        <item>djokovic</item>
+        <item>sharapova</item>
+        <item>basketball</item>
+        <item>cerssou</item>
+        <item>lebronjames</item>
+        <item>stephencurry</item>
+        <item>michaeljordan</item>
+        <item>kyrieirving</item>
+        <item>jamesharden</item>
+
+
+
+
+        <item>radio</item>
+        <item>telephone</item>
+        <item>television</item>
+        <item>vacuum</item>
+        <item>washingmachine</item>
+        <item>microwave</item>
+        <item>fridge</item>
+        <item>operatingroom</item>
+        <item>scanner</item>
+        <item>radiography</item>
+        <item>dentaltools</item>
+        <item>wheelchair</item>
+        <item>lazer</item>
+        <item>laboratory</item>
+        <item>network</item>
+        <item>alarm</item>
+        <item>camera</item>
+        <item>videocall</item>
+        <item>socialmedia</item>
+        <item>gamerlaptop</item>
+        <item>hawkeye</item>
+        <item>laptop</item>
+        <item>printer</item>
+        <item>router</item>
+        <item>windows</item>
+        <item>linux</item>
+        <item>hacker</item>
+        <item>buyweb</item>
+        <item>applications</item>
+        <item>iphone</item>
+        <item>galaxy</item>
+        <item>lumia</item>
+        <item>ios</item>
+        <item>android</item>
+        <item>windos</item>
+
+
+        <item>mami</item>
+        <item>bilal</item>
+        <item>khaled</item>
+        <item>kafon</item>
+        <item>elanka</item>
+        <item>elharrachi</item>
+        <item>guerouabi</item>
+        <item>brunomars</item>
+        <item>eminem</item>
+        <item>usher</item>
+        <item>drake</item>
+        <item>beyonce</item>
+        <item>rihanna</item>
+        <item>adam</item>
+        <item>booba</item>
+        <item>damso</item>
+        <item>fianso</item>
+        <item>alonzo</item>
+        <item>soolking</item>
+        <item>celinedion</item>
+        <item>caroliina</item>
+        <item>guitar</item>
+        <item>drums</item>
+        <item>trumpet</item>
+        <item>piano</item>
+        <item>violin</item>
+        <item>saxophone</item>
+        <item>flute</item>
+        <item>fa</item>
+        <item>me</item>
+        <item>sol</item>
+        <item>la</item>
+        <item>re</item>
+        <item>do</item>
+        <item>si</item>
+
+
+
+
+
+        <item>sheep</item>
+        <item>rabbit</item>
+        <item>dog</item>
+        <item>cat</item>
+        <item>camel</item>
+        <item>horse</item>
+        <item>hamster</item>
+        <item>fly</item>
+        <item>bee</item>
+        <item>butterfly</item>
+        <item>spider</item>
+        <item>moustique</item>
+        <item>caelifera</item>
+        <item>coccinellidae</item>
+        <item>penguin</item>
+        <item>octopus</item>
+        <item>turtle</item>
+        <item>shark</item>
+        <item>sealion</item>
+        <item>killerwhale</item>
+        <item>mantaray</item>
+        <item>falcon</item>
+        <item>duck</item>
+        <item>heron</item>
+        <item>toucan</item>
+        <item>eagle</item>
+        <item>peacock</item>
+        <item>macaw</item>
+        <item>panda</item>
+        <item>giraffe</item>
+        <item>bear</item>
+        <item>leopard</item>
+        <item>lion</item>
+        <item>wolf</item>
+        <item>elephant</item>
+        <item>colosseum</item>
+        <item>parthenon</item>
+
+
+
+        <item>pyramid</item>
+        <item>jerusalem</item>
+        <item>tajmahal</item>
+        <item>eiffeltower</item>
+        <item>babel</item>
+        <item>selvador</item>
+        <item>mozart</item>
+        <item>beethoven</item>
+        <item>picasso</item>
+        <item>davinci</item>
+        <item>elanka</item>
+        <item>guerouabi</item>
+        <item>museum</item>
+        <item>opera</item>
+        <item>show</item>
+        <item>theater</item>
+        <item>painting</item>
+        <item>runwaymodel</item>
+        <item>studio</item>
+        <item>fashion</item>
+        <item>note</item>
+        <item>streetart</item>
+        <item>recording</item>
+        <item>shooting</item>
+        <item>monalisa</item>
+        <item>femmeassise</item>
+        <item>painting</item>
+        <item>music</item>
+        <item>cenema</item>
+        <item>dancing</item>
+        <item>sculpture</item>
+        <item>acting</item>
+        <item>architecture</item>
+
+
+
+
+        <item>tokyo</item>
+        <item>london</item>
+        <item>paris</item>
+        <item>madrid</item>
+        <item>rome</item>
+        <item>beijing</item>
+        <item>riodejaneiro</item>
+        <item>desert</item>
+        <item>ocean</item>
+        <item>mountain</item>
+        <item>forest</item>
+        <item>waterfall</item>
+        <item>bight</item>
+        <item>lac</item>
+        <item>jamaica</item>
+        <item>spain</item>
+        <item>russia</item>
+        <item>algeria</item>
+        <item>royaumeuni</item>
+        <item>portugal</item>
+        <item>japan</item>
+        <item>colosseum</item>
+        <item>parthenon</item>
+        <item>jerusalem</item>
+        <item>pyramid</item>
+        <item>tajmahal</item>
+        <item>statueofliberty</item>
+        <item>santamaria</item>
+        <item>algeria</item>
+        <item>egypt</item>
+        <item>iraq</item>
+        <item>palestine</item>
+        <item>italy</item>
+        <item>france</item>
+        <item>india</item>
+
+
+
+
+
+        <item>water</item>
+        <item>tea</item>
+        <item>coffee</item>
+        <item>milk</item>
+        <item>juice</item>
+        <item>tisane</item>
+        <item>softdrink</item>
+        <item>sushi</item>
+        <item>burger</item>
+        <item>pizza</item>
+        <item>icecream</item>
+        <item>popcorn</item>
+        <item>fries</item>
+        <item>barbecue</item>
+        <item>bread</item>
+        <item>dessert</item>
+        <item>rice</item>
+        <item>soup</item>
+        <item>sushi</item>
+        <item>spaghetti</item>
+        <item>fruitsalad</item>
+        <item>apple</item>
+        <item>cherry</item>
+        <item>grapes</item>
+        <item>orange</item>
+        <item>pear</item>
+        <item>pomegranate</item>
+        <item>strawberries</item>
+        <item>carrot</item>
+        <item>garlic</item>
+        <item>lettuce</item>
+        <item>onions</item>
+        <item>papper</item>
+        <item>potato</item>
+        <item>tomatoes</item>
+
+
+
+
+        <item>batman</item>
+        <item>godzilla</item>
+        <item>hulk</item>
+        <item>ironman</item>
+        <item>spiderman</item>
+        <item>superman</item>
+        <item>woody</item>
+        <item>mario</item>
+        <item>mickeymouse</item>
+        <item>pikachu</item>
+        <item>pinkpanther</item>
+        <item>roadrunner</item>
+        <item>scoobydoo</item>
+        <item>sonic</item>
+        <item>dracula</item>
+        <item>dumbledore</item>
+        <item>jacksparrow</item>
+        <item>jamesbond</item>
+        <item>stevejobs</item>
+        <item>usainbolt</item>
+        <item>william</item>
+        <item>papasmurf</item>
+        <item>popeye</item>
+        <item>shrek</item>
+        <item>simpson</item>
+        <item>spongebob</item>
+        <item>tintin</item>
+        <item>tom and jerry</item>
+        <item>angrybirds</item>
+        <item>garfield</item>
+        <item>griffen</item>
+        <item>grinch</item>
+        <item>kermit</item>
+        <item>unicorn</item>
+        <item>witech</item>
+
+
+
+
+
+    </string-array>
+</resources>

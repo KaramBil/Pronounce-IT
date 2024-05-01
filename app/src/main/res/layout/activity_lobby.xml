@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main1bg"
+    android:orientation="vertical"
+    tools:context="com.example.fady.BILAMI.Lobby">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:background="#88FFFFFF"
+
+        android:paddingStart="15dp">
+
+        <Button
+            android:id="@+id/LobbySetting"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="5dp"
+            android:background="@drawable/cerclenoir"
+            android:foreground="@drawable/settingcle" />
+
+        <ImageView
+
+            android:id="@+id/photodeprofile"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginTop="40dp"
+            android:src="@mipmap/ic_launcher_round" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_toEndOf="@id/photodeprofile"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/mynomdeprofile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/linearLayout"
+                android:layout_marginTop="30dp"
+                android:layout_toEndOf="@+id/photodeprofile"
+                android:background="@drawable/rounded"
+                android:maxLines="1"
+                android:paddingEnd="20dp"
+                android:paddingStart="20dp"
+                android:text="Email"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/mygameplayed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/rounded"
+                android:maxLines="1"
+                android:paddingEnd="20dp"
+                android:paddingStart="20dp"
+                android:text="G/played: "
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/mygamewon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/rounded"
+                android:maxLines="1"
+                android:paddingEnd="20dp"
+                android:paddingStart="20dp"
+                android:text="G/Won : "
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/mywinacc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/rounded"
+                android:maxLines="1"
+                android:paddingEnd="20dp"
+                android:paddingStart="20dp"
+                android:text="Win ACC : "
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:textStyle="bold|italic" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="Online Players"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content" />
+
+
+    <ListView
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:id="@+id/OnlinePlayers"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+
+</LinearLayout>

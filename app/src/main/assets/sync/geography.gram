@@ -1,0 +1,42 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<geo> =             
+         tokyo |
+         london |
+         paris |
+         madrid |
+         rome |
+         beijing |
+         riodejaneiro |
+         desert |
+         ocean |
+         mountain |
+         forest |
+         waterfall |
+         bight |
+         lac |
+         jamaica |
+         spain |
+         russia |
+         algeria |
+         royaumeuni |
+         portugal |
+         japan |
+         colosseum |
+         parthenon |
+         jerusalem |
+         pyramid |
+         tajmahal |
+         statueofliberty |
+         santamaria |
+         algeria |
+         egypt |
+         iraq |
+         palestine |
+         italy |
+         france |
+         india  ;
+
+public <geography> = <geo>;

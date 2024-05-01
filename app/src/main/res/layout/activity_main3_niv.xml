@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main1bg"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.fady.BILAMI.Main3ActivityNiv"
+    >
+
+
+
+        <com.github.florent37.diagonallayout.DiagonalLayout
+            android:id="@+id/diagonalLayout"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:elevation="20dp"
+
+    >
+
+        <com.flaviofaria.kenburnsview.KenBurnsView
+            android:id="@+id/categorie_im"
+            android:scaleType="centerCrop"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"  />
+
+
+        </com.github.florent37.diagonallayout.DiagonalLayout>
+    <LinearLayout
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="5dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_height="wrap_content"
+        android:background="#90000000"
+
+        >
+
+        <TextView
+            android:id="@+id/jetonnbrnv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:paddingStart="5dp"
+            android:text="helloo"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold|italic"
+
+            />
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:id="@+id/jetonimgnv"
+            android:background="@drawable/goldentoken"
+            />
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:id="@+id/cat_title"
+            android:textSize="25dp"
+            android:layout_gravity="center"
+            android:singleLine="true"
+            android:textAllCaps="true"
+            android:textStyle="bold|italic"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:text="salut"
+            />
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:id="@+id/NivSetting"
+            android:background="@drawable/settingcle"
+            android:layout_marginEnd="20dp"
+            />
+
+    </LinearLayout>
+
+
+
+
+
+        <ListView
+            android:layout_marginTop="10dp"
+            android:id="@+id/listView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+

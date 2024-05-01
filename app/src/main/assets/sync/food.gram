@@ -1,0 +1,41 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<foo> =                 water |
+         tea |
+         coffee |
+         milk |
+         juice |
+         tisane |
+         softdrink |
+         sushi |
+         burger |
+         pizza |
+         icecream |
+         popcorn |
+         fries |
+         barbecue |
+         bread |
+         dessert |
+         rice |
+         soup |
+         sushi |
+         spaghetti |
+         fruitsalad |
+         apple |
+         cherry |
+         grapes |
+         orange |
+         pear |
+         pomegranate |
+         strawberries |
+         carrot |
+         garlic |
+         lettuce |
+         onions |
+         papper |
+         potato |
+         tomatoes  ;
+
+public <food> = <foo>;

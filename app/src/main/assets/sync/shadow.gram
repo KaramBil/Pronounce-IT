@@ -1,0 +1,42 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<sha> =             
+           batman |
+         godzilla |
+         hulk |
+         ironman |
+         spiderman |
+         superman |
+         woody |
+         mario |
+         mickeymouse |
+         pikachu |
+         pinkpanther |
+         roadrunner |
+         scoobydoo |
+         sonic |
+         dracula |
+         dumbledore |
+         jacksparrow |
+         jamesbond |
+         stevejobs |
+         usainbolt |
+         william |
+         papasmurf |
+         popeye |
+         shrek |
+         simpson |
+         spongebob |
+         tintin |
+         tom and jerry |
+         angrybirds |
+         garfield |
+         griffen |
+         grinch |
+         kermit |
+         unicorn |
+         witech  ;
+
+public <shadow> = <sha>;

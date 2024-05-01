@@ -1,0 +1,41 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<mus> =        mami |
+         bilal |
+         khaled |
+         kafon |
+         elanka |
+         elharrachi |
+         guerouabi |
+         brunomars |
+         eminem |
+         usher |
+         drake |
+         beyonce |
+         rihanna |
+         adam |
+         booba |
+         damso |
+         fianso |
+         alonzo |
+         soolking |
+         celinedion |
+         caroliina |
+         guitar |
+         drums |
+         trumpet |
+         piano |
+         violin |
+         saxophone |
+         flute |
+         fa |
+         me |
+         sol |
+         la |
+         re |
+         do |
+         si  ;
+
+public <music> = <mus>;

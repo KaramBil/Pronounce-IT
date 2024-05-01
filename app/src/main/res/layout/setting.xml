@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+
+    android:layout_marginLeft="50dp"
+    android:layout_marginRight="50dp"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content"
+    android:background="@drawable/invitation">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="Settings"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+
+        android:paddingTop="3dp"
+        android:textSize="30dp"
+        android:textStyle="bold|italic"
+        />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginLeft="50dp"
+            android:id="@+id/muteall"
+            android:background="@drawable/bu_principale"
+            android:textColor="@color/white"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Restore Defaults"
+            android:id="@+id/restore"
+            android:background="@drawable/bu_principale"
+            android:textColor="@color/white"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginRight="50dp"
+            android:layout_marginLeft="50dp"
+
+            android:layout_marginTop="20dp"
+            />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:id="@+id/changerlangue"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginRight="50dp"
+    android:background="@drawable/bu_principale"
+
+    android:orientation="horizontal"
+    android:layout_marginTop="20dp"
+android:paddingStart="20dp"
+    android:layout_marginLeft="50dp">
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:paddingStart="3dp"
+        android:background="#00000000"
+        android:text="Change Language"
+        android:textColor="@color/white"
+        />
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/ukicon"
+        android:id="@+id/FLAG"
+        android:scaleType="fitXY"
+        android:layout_height="30dp" />
+</LinearLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Close"
+            android:id="@+id/close"
+            android:background="@drawable/bu_principale"
+            android:textColor="@color/white"
+            android:layout_gravity="end"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="12dp"
+            />
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

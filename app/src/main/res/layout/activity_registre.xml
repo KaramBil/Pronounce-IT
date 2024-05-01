@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/main1bg"
+    android:layout_height="match_parent"
+    tools:context="com.example.fady.BILAMI.Register">
+    <ImageView
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginBottom="15dp"
+        app:srcCompat="@drawable/logoquiz" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subscribe"
+ android:layout_gravity="center"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:layout_marginStart="15dp"
+        android:textStyle="bold|italic"
+        />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/rounded"
+        android:ems="10"
+        android:hint="Email"
+        android:id="@+id/ema"
+        android:inputType="textEmailAddress"
+        android:padding="5dp"
+        android:paddingStart="15dp"
+
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/pass"
+        android:hint="Password"
+        android:background="@drawable/rounded"
+
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:paddingStart="15dp"
+        android:padding="5dp"
+
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/passcnf"
+        android:hint="Confirm your password"
+        android:background="@drawable/rounded"
+
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:paddingStart="15dp"
+        android:padding="5dp"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"></View>
+     <LinearLayout
+         android:layout_width="wrap_content"
+         android:layout_height="match_parent">
+
+         <TextView
+             android:layout_gravity="center"
+
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Pick An Avatar"
+             android:layout_marginTop="5dp"
+             android:padding="5dp"
+             android:textStyle="italic|bold"
+             android:background="@drawable/rounded"
+             android:textSize="20dp"
+             android:textColor="@color/white"/>
+
+     </LinearLayout>
+
+        <Button
+            android:id="@+id/avatarpick"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="avatarpick"
+            android:layout_marginLeft="2dp"
+            android:layout_marginEnd="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="s'inscrire"
+        android:id="@+id/insc"
+        android:layout_gravity="center"
+        android:background="@drawable/rounded"
+        android:elevation="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="12dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<his> =   revolution |
+         army |
+         border |
+         charledegaulle |
+         zighoudyoucef |
+         didouchemourad |
+         larbibenmhidi |
+         pharoh |
+         pyramid |
+         hieroglyph |
+         cleopatra |
+         sarcophagus |
+         sphinx |
+         mummy |
+         war |
+         tanque |
+         hitler |
+         grenade |
+         prisoner |
+         stalin |
+         truman |
+         prehistory |
+         man |
+         dinosaur |
+         mammoth |
+         fire |
+         painting |
+         cave |
+         mecca |
+         mosque |
+         doaa |
+         quran |
+         islam |
+         judaism |
+         christianity ;
+
+public <history> = <his>;

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arab">
+
+        <item>ثَوْرَةٌ</item>
+        <item>جَيْشٌ</item>
+        <item>حُدُودٌ</item>
+        <item>دِي-غُولْ </item>
+        <item>يوسِف</item>
+        <item>مُرَادُ</item>
+        <item>العَرَبِي</item>
+        <item>فِرْعَوْنٌ</item>
+        <item>أَهْرَامٌ</item>
+        <item>الهِيرُوغِلِيفِيَة</item>
+        <item>كِلِيُوبَاتْرَا</item>
+        <item>ضَرِيحٌ</item>
+        <item>أبوالهول</item>
+        <item>مُومْيَاءٌ</item>
+        <item>حَرْبٌ</item>
+        <item>دَبَّابَةٌ</item>
+        <item>هِيتْلِر</item>
+        <item>قُنْبُلَةٌ</item>
+        <item>سِجِّينٌ</item>
+        <item>سْتَالِينُ</item>
+        <item>تُرُومَانُ</item>
+        <item>العَصْرُ-الحَجَرِيُّ</item>
+        <item>الإِنْسَانُ-الحَجَرِيُّ</item>
+        <item>دَيْنَاصُورٌ</item>
+        <item>مَامُوثٌ</item>
+        <item>نَارٌ</item>
+        <item>كِتَابَةٌ</item>
+        <item>كَهْفٌ</item>
+        <item>مَكَّةُ</item>
+        <item>مَسْجِدٌ</item>
+        <item>دُعَاءُ</item>
+        <item>قُرْآنٌ</item>
+        <item>الإِسْلَامُ</item>
+        <item>اليهودِيَّةُ</item>
+        <item>المَسِيحِيَّةُ</item>
+
+
+
+        <item>شَمِسَ </item>
+        <item>فَضَاءَ </item>
+        <item>صَارُوخ </item>
+        <item>فَضَائِيّ </item>
+        <item>مَجَره </item>
+        <item>مِنْظار </item>
+        <item>قَمَرَ-صَناعِي </item>
+        <item>دِي-أَنْ-إِي </item>
+        <item>بِيكْتِيرِيَا </item>
+        <item>خَلِيَّة </item>
+        <item>تَشْرِيح </item>
+        <item>فَطْر </item>
+        <item>كُرُومُوزُوم </item>
+        <item>مِيكْرُو-سُكُوب </item>
+        <item>تَجْرِبَة </item>
+        <item>مَحْلُول </item>
+        <item>كِيمِيائِي </item>
+        <item>مُخْبِر-تَحالِيل </item>
+        <item>إِنْفِجار </item>
+        <item>بَاسْتُور </item>
+        <item>دِيمِيتْرِي </item>
+        <item>طَبِيب </item>
+        <item>أَدْوِيَة </item>
+        <item>مَرِيض </item>
+        <item>مُسْتَشْفَى </item>
+        <item>مَعِدَة </item>
+        <item>مُعَدّات </item>
+        <item>سَتِيتُو-سُكُوب </item>
+        <item>نَظَرِيَّة </item>
+        <item>مِصْباح </item>
+        <item>هَاوْكِينغ </item>
+        <item>نِيُوتُن </item>
+        <item>أَيْنَشْتَايَن </item>
+        <item>غَالِيلِي </item>
+        <item>أَرْشِيمَاد</item>
+
+
+
+        <item>قُفّاز </item>
+        <item>حِذاءَ </item>
+        <item>حَلْبَة </item>
+        <item>مُلاكَمَة </item>
+        <item>كَيَّسَ </item>
+        <item>مَاي-وَيُذَرّ </item>
+        <item>أُمّ-سِي-غِرِيغورِي </item>
+        <item>كَرَّة-القَدَم </item>
+        <item>العَارِضَة </item>
+        <item>رُونالْدُو </item>
+        <item>مَيْسِي </item>
+        <item>مارَّتا </item>
+        <item>مُحْرِز </item>
+        <item>صَلاح </item>
+        <item>كَرَّة-اليَد </item>
+        <item>صَالَة </item>
+        <item>مَرْمَى </item>
+        <item>سَلَاحْجِي </item>
+        <item>الأَحْمَر </item>
+        <item>هَانْسِين </item>
+        <item>كَارَابَاتِيتش </item>
+        <item>تُنْس </item>
+        <item>مِضْرَب </item>
+        <item>نَادَال </item>
+        <item>فِيدِيرَرْ </item>
+        <item>سَيَرِينا </item>
+        <item>جُوكُوفِيتَش </item>
+        <item>شَارَابُوفَا</item>
+        <item>كَرَّة-السَلَّة </item>
+        <item>حَلْقَة </item>
+        <item>لِيبْرُون </item>
+        <item>كُورِيّ </item>
+        <item>جُورْدَان </item>
+        <item>كَايْرِي </item>
+        <item>هَارْدَن</item>
+
+
+
+        <item>مِذْياع </item>
+        <item>هاتِف </item>
+        <item>تِلْفاز </item>
+        <item>شافط </item>
+        <item>مِغْسَلَة </item>
+        <item>مَسَخنَ </item>
+        <item>ثَلّاجَة </item>
+        <item>غُرْفَة-العَمَلِيّات </item>
+        <item>سَكَانِير </item>
+        <item>رادِيُو-غرَافِي</item>
+        <item>جِرَاحَة-الأَسْنَان </item>
+        <item>مَقْعَدَة </item>
+        <item>لَازَار </item>
+        <item>تَحَالِيل </item>
+        <item>إِنْتِرْنِت </item>
+        <item>مُنَبِّه </item>
+        <item>كامِيرا </item>
+        <item>مُكالَمَة-صُوَرِيَّة </item>
+        <item>مَواقِع-التَواصُل </item>
+        <item>حاسُوب </item>
+        <item>عَيْن-الصَقْر </item>
+        <item>حاسُوب </item>
+        <item>مَطْبَعَة </item>
+        <item>رُوتَر </item>
+        <item>وِينْدُوز </item>
+        <item>لينوكس </item>
+        <item>هَاكَر </item>
+        <item>تِجارَة-رَقَمِيَّة </item>
+        <item>تَطْبِيقات </item>
+        <item>أَيْفُون </item>
+        <item>غَالَاكْسِي </item>
+        <item>لُومِيا </item>
+        <item>إِيُوس </item>
+        <item>اَنْدَروِيد </item>
+        <item>وِينْدُوز</item>
+
+
+
+        <item>مَامِي</item>
+        <item>بِلَالُ</item>
+        <item>خَالِدُ</item>
+        <item>كافوٌ</item>
+        <item>العنقة</item>
+        <item>الْحَرَاشِي</item>
+        <item>غروابي</item>
+        <item>برُونُومَارَس</item>
+        <item>اِيمِينَمِ</item>
+        <item>أَشَّرَ</item>
+        <item>دَرَايْك</item>
+        <item>بِيوُنْسِية</item>
+        <item>رِيَانَا</item>
+        <item>أَدْمِ</item>
+        <item>بُوبَا</item>
+        <item>دَامْصُو</item>
+        <item>فِيَانْصُو</item>
+        <item>أَلُنْزُو</item>
+        <item>سولكينغ</item>
+        <item>سِيلِين-دُيُونٌ</item>
+        <item>كَارُولِينَا</item>
+        <item>غِيتًار</item>
+        <item>طَبْلٌ</item>
+        <item>بُوقٌ</item>
+        <item>بِيَانُو</item>
+        <item>كَمَنْجَة</item>
+        <item>سَاكْسُوفُون</item>
+        <item>نَايٌ</item>
+        <item>فَا</item>
+        <item>مِي</item>
+        <item>صُول</item>
+        <item>لَا</item>
+        <item>رَيْ</item>
+        <item>دُو </item>
+        <item>سِي</item>
+
+
+
+        <item>خَرُوفٌ </item>
+        <item>أَرْنَبٌ </item>
+        <item>كَلْبٌ </item>
+        <item>قَطُّ </item>
+        <item>جَمَلٌ</item>
+        <item>حَسَّانُ </item>
+        <item>همستر</item>
+        <item>ذُبَابَةٌ</item>
+        <item>نَحْلَةٌ</item>
+        <item>فَرَاشَةٌ </item>
+        <item>عَنْكَبُوتٌ</item>
+        <item>بَعُوضَةٌ</item>
+        <item>جِرَادَة</item>
+        <item>دُعْسُوقَةٌ</item>
+        <item>بِطْرِيقٌ </item>
+        <item>أُخْطُبُوطٌ</item>
+        <item>سُلَحْفَاةٌ</item>
+        <item>قِرْشٌ</item>
+        <item>فُقْمَةٌ</item>
+        <item>حُوتٌ </item>
+        <item>مَانْتَارَاي</item>
+        <item>صَقْرُ</item>
+        <item>بَطَّةٌ</item>
+        <item>بَجَعَةٌ</item>
+        <item>طُوقَانٌ</item>
+        <item>نَسْرٌ</item>
+        <item>طَاوُوسٌ</item>
+        <item>بَبَّغَاءُ</item>
+        <item>بَانْدَا</item>
+        <item>زَرَافَةٌ</item>
+        <item>دُبٌّ</item>
+        <item>فَهْدُ</item>
+        <item>أَسَدُ</item>
+        <item>ذِئْبٌ</item>
+        <item>فِيلٌ</item>
+
+
+
+
+        <item>كُولِيسِيُوم</item>
+        <item>بَارتِينُون</item>
+        <item>الأَهْرَامُ</item>
+        <item>القُدْسُ</item>
+        <item>تَاجٌ-مَحَلٌّ</item>
+        <item>بُرْجٌ-ايفيل</item>
+        <item>بَابِل</item>
+        <item>سَلْفَادُور</item>
+        <item>مُوزَار</item>
+        <item>بِيتْهُوفِن </item>
+        <item>بِيكَاسُو</item>
+        <item>دًافِينشِي</item>
+        <item>العَنقَة</item>
+        <item>غَروَابِي</item>
+        <item>مَتْحَفٌ</item>
+        <item>أُوبِرَا</item>
+        <item>عَرْضٌ</item>
+        <item>مَسْرَحٌ </item>
+        <item>لَوْحَةٌ</item>
+        <item>عَرْضٌ-أَزْيَاءٌ</item>
+        <item>اِسْتُودِيُو</item>
+        <item>مُوضَةٌ</item>
+        <item>نُوتَاتٌ</item>
+        <item>فَنٌّ-الشَّوَارِعُ</item>
+        <item>تَسْجِيلٌ</item>
+        <item>تَصْوِيرٌ</item>
+        <item>مُونَالِيْزَا</item>
+        <item>المَرْأَةُ-الجَالِسَةُ</item>
+        <item>الرَّسْمُ</item>
+        <item>المُوسِيقَى</item>
+        <item>السِّينَمَا</item>
+        <item>الرَّقْصُ</item>
+        <item>النَّحْتُ</item>
+        <item>التَّمْثِيلُ</item>
+        <item>التَّصْمِيمُ</item>
+
+
+
+        <item>طُوكِيُو</item>
+        <item>لُنْدُنُ</item>
+        <item>بَارِيس</item>
+        <item>مَدْرِيد</item>
+        <item>رُومَا</item>
+        <item>بِيكِين</item>
+        <item>رِيُودِي-جَانِيرُو</item>
+        <item>صَحْرَاءُ </item>
+        <item>مُحِيطٌ</item>
+        <item>جِبَالٌ</item>
+        <item>غَابَةٌ</item>
+        <item>شَلَّالٌ</item>
+        <item>خَلِيجٌ</item>
+        <item>بُحَيْرَةٌ</item>
+        <item>جَامَيْكَا</item>
+        <item>إِسْبَانِيَا</item>
+        <item>رُوسِيَا</item>
+        <item>الجَزَائِرُ</item>
+        <item>اِنْجِلْتَرَا</item>
+        <item>البُرْتُغَالُ</item>
+        <item>اليَابَانُ</item>
+        <item>كوليسيوم</item>
+        <item>بارتينون </item>
+        <item>القُدْسُ </item>
+        <item>الأَهْرَامُ</item>
+        <item>تَاجٌ-مَحَلٌّ</item>
+        <item>تِمْثَالٌ-الحُرِّيَّةُ</item>
+        <item>سَانْتَا-دِي-مَارِيَا</item>
+        <item>الجَزَائِرُ</item>
+        <item>مِصْرُ</item>
+        <item>العِرَاقُ</item>
+        <item>فِلَسْطِينُ</item>
+        <item>اِيطَالِيَا</item>
+        <item>فَرَنْسَا</item>
+        <item>الهِنْدُ</item>
+
+
+
+        <item>مَاءْ</item>
+        <item>شَايْ </item>
+        <item>قَهْوَة </item>
+        <item>حَلِيب </item>
+        <item>عَصِير </item>
+        <item>تِيزَانَة </item>
+        <item>مَشْرُوب-غازَيْ </item>
+        <item>سُوشِي </item>
+        <item>هُمْبُرْغَرْ </item>
+        <item>بِيتْزا </item>
+        <item>أَيْسَ-كرِيم </item>
+        <item>فُشَار </item>
+        <item>بَطاطا-مَقْلِيَّة </item>
+        <item>شِوَاء </item>
+        <item>خُبْز </item>
+        <item>حُلْوَيَات </item>
+        <item>أَرُزّ </item>
+        <item>حَسَاء</item>
+        <item>سُوشِي </item>
+        <item>سَبَاغيتِي </item>
+        <item>سُلْطَة-فَواكِه </item>
+        <item>تُفّاح </item>
+        <item>كَرْز </item>
+        <item>عِنَب </item>
+        <item>بُرْتُقال </item>
+        <item>إِيجَاص </item>
+        <item>رُمّان </item>
+        <item>فَراوْلَة </item>
+        <item>جَزَرَ </item>
+        <item>ثُوم </item>
+        <item>خَسَّ </item>
+        <item>بَصَل </item>
+        <item>فَلِفُلّ </item>
+        <item>بَطَاطَا </item>
+        <item>طَمَاطِم</item>
+
+
+
+        <item>بَاتْمَان </item>
+        <item>غُودْزِيلَا </item>
+        <item>هُويْلَك </item>
+        <item>أَيْرُومَان </item>
+        <item>سَبِيدَرمَان </item>
+        <item>سُوبَرْمَان </item>
+        <item>وَوِدِّي </item>
+        <item>مَارِيُو </item>
+        <item>مِيكِي </item>
+        <item>بِيكَاتْشُو </item>
+        <item>الفَهْد -الوَرْدِيّ </item>
+        <item>بِيبْبِيب </item>
+        <item>سُكُوبِيدُو </item>
+        <item>صُونِيك </item>
+        <item>دَرَاكُولا </item>
+        <item>دَمْبَلْدُور </item>
+        <item>جَاك-سَبَارُو </item>
+        <item>جِيمَس-بُونَد </item>
+        <item>ستِيف </item>
+        <item>بَوَّلتِ </item>
+        <item>وِيلْيام </item>
+        <item>سَنْفُور </item>
+        <item>بُوبَاي </item>
+        <item>شِرِيكْ </item>
+        <item>سِيمْسُون </item>
+        <item>سُبُونَج-بُوب </item>
+        <item>تَانْ-تَانْ </item>
+        <item>طُوم-وَجِيرِيّ </item>
+        <item>الطُيُور-الغَاضِبَة </item>
+        <item>غارْفِيلَد </item>
+        <item>غرِيفَن </item>
+        <item>غَرَانَش </item>
+        <item>كَارْمِيت </item>
+        <item>وَحِيدالقَرَن </item>
+        <item>السَاحِرَة</item>
+
+
+    </string-array>
+
+
+
+
+</resources>

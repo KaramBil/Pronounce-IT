@@ -1,0 +1,41 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<spo> =     glove|
+          shoes|
+          ring|
+          boxing|
+          punchingbag|
+          mayweather|
+          mcgregor|
+          football|
+          bars|
+          ronaldo|
+          messi|
+          marta|
+          mahrez|
+          salah|
+          handball|
+          room|
+          bars|
+          slahdji|
+          elahmer|
+          hansen|
+          karabatic|
+          tennis|
+          racket|
+          nadal|
+          federer|
+          serena|
+          djokovic|
+          sharapova|
+          basketball|
+          cerssou|
+          lebronjames|
+          stephencurry|
+          michaeljordan|
+          kyrieirving|
+          jamesharden ;
+
+public <sport> = <spo>;

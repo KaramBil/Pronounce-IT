@@ -1,0 +1,41 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<sci> =    sun |
+         space |
+         rocket |
+         astronaut |
+         solarsystem |
+         telescope |
+         satellite |
+         dna |
+         bacteria |
+         cell |
+         mushroom |
+         chromosome |
+         microscope |
+         anatomy |
+         experiment |
+         flask |
+         chimist |
+         laboratory |
+         explotion |
+         pasteur |
+         dmitri |
+         doctor |
+         drugs |
+         sick |
+         hospital |
+         stomach |
+         toys |
+         stethoscope |
+         theory |
+         lightbulb |
+         hoking |
+         newton |
+         einstien |
+         galile |
+         archimede ;
+
+public <science> = <sci>;

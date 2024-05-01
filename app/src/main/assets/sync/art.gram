@@ -1,0 +1,39 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<ar> =             pyramid |
+         jerusalem |
+         tajmahal |
+         eiffeltower |
+         babel |
+         selvador |
+         mozart |
+         beethoven |
+         picasso |
+         davinci |
+         elanka |
+         guerouabi |
+         museum |
+         opera |
+         show |
+         theater |
+         painting |
+         runwaymodel |
+         studio |
+         fashion |
+         note |
+         streetart |
+         recording |
+         shooting |
+         monalisa |
+         femmeassise |
+         painting |
+         music |
+         cenema |
+         dancing |
+         sculpture |
+         acting |
+         architecture  ;
+
+public <art> = <ar>;
