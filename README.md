@@ -1,0 +1,1 @@
+Une application mobile éducative pour Android développée en Java avec une API en PHP. Elle intègre la reconnaissance vocale via POCKETSPHINX pour évaluer la prononciation des mots, permettant aux enfants et aux apprenants en Anglais, Français ou Arabe de progresser à travers les niveaux ou les stages en mode solo ou multijoueur.
